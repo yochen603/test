@@ -40,3 +40,6 @@ def predict(network, state, project, img_dir, dest, batch_size, n_workers):
 
 if __name__ == "__main__":
     predict()
+
+
+    print(.......................)
